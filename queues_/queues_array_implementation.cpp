@@ -2,7 +2,8 @@
 using namespace std; 
 #define n 20
 class queue{
-	int * arr;int back;
+	int * arr;
+	int back;
 	int front;
 	public:
 	queue(){
