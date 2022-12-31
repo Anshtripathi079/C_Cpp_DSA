@@ -21,7 +21,7 @@ void inorder(struct node* root){
     }
 }
 
-//pre-order traversal
+//pre-order traversal in tree
 void preorder(struct node* root){
     if(root==NULL){
         return;
