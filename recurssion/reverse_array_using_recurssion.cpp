@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
+// recurssive function to reverse array
 void reversearr(int arr[],int i,int j){
     if(i>j){
         return;
